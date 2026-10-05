@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<h1 align="center">Hi, I'm Alvand</h1>
+<h1 align="center">Hi, I'm Ali(Alvand)</h1>
 <h3 align="center">Cybersecurity M.Sc. Student & Researcher | Cryptography | Software Engineering</h3>
 
 ---
