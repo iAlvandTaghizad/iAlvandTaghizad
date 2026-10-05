@@ -1,78 +1,97 @@
 <!-- Banner -->
 
 <h1 align="center">Hi, I'm Alvand</h1>
-<h3 align="center">CS Student & Researcher | Frontend Developer </h3>
+<h3 align="center">Cybersecurity M.Sc. Student & Researcher | Cryptography | Software Engineering</h3>
 
 ---
 
 ### About Me
-- Frontend engineer by profession  
-- Cryptography researcher by questionable life choices
-- Building enterprise-scale web apps since forever (not *forever*, but long enough)
-- Founder of **RADA (Rahyaft Ayandenegar Dade Afarin)** – creating smart, scalable organizational software  
-- Worked on:
-  - **Avand** – corporate credit allocation system for *Bank Pasargad*  
-  - **Homzhans** – healthcare & home services platform (multi-panel system)  
-  - **Customer Club Management** – loyalty platform for *Bank Pasargad*  
-  - **Phocus ERP** – modular ERP platform  
-  - **CRM/ERP for Machine Sazi Tabriz** – full enterprise solution  
+
+* 🎓 Master's student in **Cybersecurity at Bahçeşehir University**
+* 🔐 Interested in **Cybersecurity, Cryptography & Secure Systems**
+* 🧪 Exploring **Post-Quantum Cryptography** and **Blockchain Security**
+* 💻 Software engineer with a professional background in **Frontend Development**
+* 🏗️ Experienced in building and leading **enterprise-scale web applications**
+
+I started my career building real-world software systems and enterprise applications.
+Today, I'm shifting that engineering experience toward **cybersecurity and security research** — particularly where software engineering, cryptography, and emerging security challenges intersect.
 
 ---
 
-### Tech Stack
+### 🔬 Research Interests
 
-#### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+* 🔐 Cryptography
+* 🛡️ Cybersecurity
+* ⚛️ Post-Quantum Cryptography
+* ⛓️ Blockchain Security
+* 🔏 Cryptographic Protocols
+* 🧩 Zero-Knowledge Proofs
+* 🔒 Secure Software & Systems
 
-#### Tools & Workflow
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/-VSCode-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+### Current Research
 
-### Research Mode
-![Research Mode](https://img.shields.io/badge/Research%20Mode-ON-purple?style=for-the-badge)
+**Post-Quantum Blockchain Using Hash-Based Non-Interactive Multi-Signature Schemes**
+
+Exploring the use of hash-based cryptographic constructions and post-quantum signatures in blockchain systems, with a focus on practical security, signature efficiency, and scalability.
 
 ---
 
-### Domain Expertise
-🏦 **FinTech** • 🏥 **Healthcare Systems** • 🏢 **ERP / CRM Development** • 💳 **Corporate Credit & Loyalty Platforms**
+### Professional Background
+
+Before moving deeper into cybersecurity and research, I worked as a **Frontend Developer / Technical Lead**, contributing to several large-scale systems:
+
+* **Avand** – Corporate credit allocation system for *Bank Pasargad*
+* **Homzhans** – Healthcare & home services platform
+* **Customer Club Management** – Loyalty platform for *Bank Pasargad*
+* **Phocus ERP** – Modular enterprise resource planning platform
+* **CRM/ERP for Machine Sazi Tabriz** – Enterprise management solution
+
+This experience gave me a strong foundation in software architecture, application development, system design, and working with complex production systems — skills I now bring into cybersecurity.
+
+---
+
+### Technical Background
+
+#### Cybersecurity & Security
+
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-111827?logo=hackthebox\&logoColor=white\&style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/-Cryptography-4B5563?style=for-the-badge)
+![Blockchain Security](https://img.shields.io/badge/-Blockchain%20Security-374151?style=for-the-badge)
+![Post Quantum Cryptography](https://img.shields.io/badge/-Post--Quantum%20Cryptography-5B21B6?style=for-the-badge)
+
+#### Frontend & Software Engineering
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=white\&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript\&logoColor=white\&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js\&logoColor=white\&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux\&logoColor=white\&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss\&logoColor=white\&style=for-the-badge)
 
 ---
 
 ### Currently Exploring
-- Next.js & Micro-Frontend Architecture  
-- Optimizing React Performance at scale  
-- Testing
+
+* Penetration Testing
+* Web Application Security
+* Vulnerability Analysis
+* Secure Software Development
+* Post-Quantum Cryptography
+* Blockchain Security
+* Zero-Knowledge Proofs
 
 ---
 
-### Side Quest: Crypto & Research Mode
-When I'm not building enterprise frontends,  
-I’m probably somewhere deep in a PDF like:
+### Research Mode
 
-> *"Post-Quantum Blockchain Using Hash-Based Non-Interactive Multi-Signature Schemes"*  
+> *"The goal isn't just to build systems — it's to understand how they can be broken, secured, and redesigned."*
 
-Master's student — currently researching:
-- Cryptography
-- Zero-knowledge proofs
-- Post-quantum blockchain
-
-In short:  
-**Frontend by day, cryptography by night.**
+Currently transitioning from **building software** to **building and researching secure systems**.
 
 ---
 
-### 📫 Let’s Connect
+### Let's Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-taghizad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
